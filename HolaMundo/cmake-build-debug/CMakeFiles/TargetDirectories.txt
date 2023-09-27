@@ -1,0 +1,3 @@
+D:/Sim_Fisicas_MarcoAMS/HolaMundo/cmake-build-debug/CMakeFiles/HolaMundo.dir
+D:/Sim_Fisicas_MarcoAMS/HolaMundo/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Sim_Fisicas_MarcoAMS/HolaMundo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
