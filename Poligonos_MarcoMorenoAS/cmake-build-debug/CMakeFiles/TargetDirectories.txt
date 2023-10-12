@@ -1,3 +1,0 @@
-D:/Sim_Fisicas_MarcoAMS/Poligonos_MarcoMorenoAS/cmake-build-debug/CMakeFiles/Poligonos_MarcoMorenoAS.dir
-D:/Sim_Fisicas_MarcoAMS/Poligonos_MarcoMorenoAS/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Sim_Fisicas_MarcoAMS/Poligonos_MarcoMorenoAS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
