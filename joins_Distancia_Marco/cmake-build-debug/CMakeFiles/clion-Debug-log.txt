@@ -1,0 +1,5 @@
+C:\Users\Marco\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/Marco/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -DCMAKE_TOOLCHAIN_FILE=C:\Users\Marco\.vcpkg-clion\vcpkg\scripts\buildsystems\vcpkg.cmake -G Ninja -S D:\Sim_Fisicas_MarcoAMS\joins_Distancia_Marco -B D:\Sim_Fisicas_MarcoAMS\joins_Distancia_Marco\cmake-build-debug
+-- Found SFML 2.6.0 in C:/Users/Marco/.vcpkg-clion/vcpkg/installed/x64-windows/share/sfml
+-- Configuring done (4.5s)
+-- Generating done (0.1s)
+-- Build files have been written to: D:/Sim_Fisicas_MarcoAMS/joins_Distancia_Marco/cmake-build-debug

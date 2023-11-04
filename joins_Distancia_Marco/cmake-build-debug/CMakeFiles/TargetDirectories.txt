@@ -1,0 +1,3 @@
+D:/Sim_Fisicas_MarcoAMS/joins_Distancia_Marco/cmake-build-debug/CMakeFiles/joins_Distancia_Marco.dir
+D:/Sim_Fisicas_MarcoAMS/joins_Distancia_Marco/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Sim_Fisicas_MarcoAMS/joins_Distancia_Marco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
