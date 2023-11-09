@@ -1,0 +1,3 @@
+D:/Sim_Fisicas_MarcoAMS/examen2_MarcoMoreno/cmake-build-debug/CMakeFiles/examen2_MarcoMoreno.dir
+D:/Sim_Fisicas_MarcoAMS/examen2_MarcoMoreno/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Sim_Fisicas_MarcoAMS/examen2_MarcoMoreno/cmake-build-debug/CMakeFiles/rebuild_cache.dir
